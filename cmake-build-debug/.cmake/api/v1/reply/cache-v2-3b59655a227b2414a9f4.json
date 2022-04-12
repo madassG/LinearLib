@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/genuis/CLionProjects/Linear/cmake-build-debug"
+			"value" : "/home/genuis/CLionProjects/LinearLib/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/genuis/CLionProjects/Linear"
+			"value" : "/home/genuis/CLionProjects/LinearLib"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/genuis/CLionProjects/Linear/cmake-build-debug"
+			"value" : "/home/genuis/CLionProjects/LinearLib/cmake-build-debug"
 		},
 		{
 			"name" : "Linear_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/genuis/CLionProjects/Linear"
+			"value" : "/home/genuis/CLionProjects/LinearLib"
 		}
 	],
 	"kind" : "cache",

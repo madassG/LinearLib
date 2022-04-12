@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/genuis/CLionProjects/Linear/cmake-build-debug",
-		"source" : "/home/genuis/CLionProjects/Linear"
+		"build" : "/home/genuis/CLionProjects/LinearLib/cmake-build-debug",
+		"source" : "/home/genuis/CLionProjects/LinearLib"
 	},
 	"version" : 
 	{
